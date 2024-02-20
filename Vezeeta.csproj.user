@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BookAppointmentForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="BuyProductForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DeleteAppointmentForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DisplayAppointmentsReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DisplayPurchasesReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
